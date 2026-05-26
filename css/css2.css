@@ -1,0 +1,252 @@
+
+ /* =========================================================
+   COMMENTAIRES / MESSAGES
+========================================================= */
+
+/*
+#wrapper > .message-wrapper{
+    padding-top:.75em;
+    padding-bottom:.75em;
+    margin-bottom:10px;
+    font-size:1.1em;
+}
+
+.message-wrapper li{
+    list-style:none;
+}
+
+.message-container span{
+    font-weight:bold;
+}
+
+.message-container .wc-forward{
+    display:none;
+}
+
+.message-container a{
+    margin:0 15px 0 0;
+}
+
+.container .message-container{
+    padding-left:0;
+    padding-right:0;
+}
+
+.message-wrapper + main .product-main{
+    padding-top:0;
+}
+
+.demo_store{
+    padding:5px;
+    margin:0;
+    text-align:center;
+    background-color:#000;
+    color:#fff;
+}
+
+.has-transparent + main > .message-wrapper{
+    position:fixed;
+    z-index:999;
+    width:100%;
+    bottom:0;
+    background-color:#fff;
+    box-shadow:1px 1px 10px rgba(0,0,0,0.1);
+}
+*/
+
+/* =========================================================
+   LIENS
+========================================================= */
+
+/* Tous les liens rouges */
+/* a:link { color:red; } */
+
+.lienx{
+    color:#0000ff;
+    text-shadow:0 1px 1px blue;
+    text-decoration:underline;
+}
+
+.menux{
+    text-decoration:none;
+    text-shadow:none;
+}
+
+.ecriturex{
+    color:#ffff00;
+    text-shadow:4px 4px 7px black;
+}
+
+/* =========================================================
+   FONTS UTILISÉES
+========================================================= */
+
+/*
+Dancing Script
+Sofia
+Chewy
+Capriola
+Noto Sans
+*/
+
+/* =========================================================
+   MENUS
+========================================================= */
+
+.tmenu1{
+    font-size:26px;
+    font-weight:bold;
+    text-decoration:none;
+    font-family:"Capriola", sans-serif;
+}
+
+.tmenu2{
+    font-size:22px;
+    font-weight:bold;
+    text-decoration:none;
+    font-family:"Capriola", sans-serif;
+}
+
+/* =========================================================
+   BANDEAUX / ALERTES
+========================================================= */
+
+.tbandeau{
+    font-size:20px;
+    color:#ffffff;
+    text-shadow:1px 2px 4px white;
+    font-family:"Capriola", sans-serif;
+}
+
+.talerterouge1{
+    font-size:20px;
+    font-weight:bold;
+    color:#ff0000;
+    text-shadow:0 1px 1px grey;
+    font-family:"Capriola", sans-serif;
+}
+
+/* =========================================================
+   TITRES
+========================================================= */
+
+.ttitre1{
+    font-size:22px;
+    font-weight:bold;
+    color:#000;
+    text-shadow:0 1px 2px grey;
+    text-decoration:underline;
+    font-family:"Capriola", sans-serif;
+}
+
+.ttitrebleu1{
+    font-size:22px;
+    font-weight:bold;
+    color:#0000ff;
+    text-shadow:0 1px 2px blue;
+    font-family:"Capriola", sans-serif;
+}
+
+.ttitre2{
+    font-size:20px;
+    font-weight:bold;
+    color:#000;
+    font-family:"Capriola", sans-serif;
+}
+
+.ttitrelien2{
+    font-size:20px;
+    font-weight:bold;
+    color:#0000ff;
+    text-shadow:0 1px 1px blue;
+    text-decoration:underline;
+    font-family:"Capriola", sans-serif;
+}
+
+.ttitrelight2{
+    font-size:20px;
+    color:#000;
+    font-family:"Capriola", sans-serif;
+}
+
+.ttitre3{
+    font-size:16px;
+    font-weight:bold;
+    color:#000;
+    font-family:"Capriola", sans-serif;
+}
+
+.ttitrerouge3{
+    font-size:16px;
+    font-weight:bold;
+    color:#ff0000;
+    font-family:"Capriola", sans-serif;
+}
+
+/* =========================================================
+   TEXTES
+========================================================= */
+
+.ttexte1{
+    font-size:14px;
+    color:#000;
+    font-family:"Capriola", sans-serif;
+}
+
+.ttextelien1{
+    font-size:14px;
+    color:#0000ff;
+    text-shadow:0 1px 1px blue;
+    text-decoration:underline;
+    font-family:"Capriola", sans-serif;
+}
+
+/* =========================================================
+   CELLULES
+========================================================= */
+
+.tcellnoir1{
+    font-size:16px;
+    font-weight:bold;
+    color:#000;
+    font-family:"Capriola", sans-serif;
+}
+
+.tcellblanc1{
+    font-size:16px;
+    font-weight:bold;
+    color:#fff;
+    font-family:"Capriola", sans-serif;
+}
+
+/* =========================================================
+   FOOTER
+========================================================= */
+
+.tfooterblanc1{
+    font-size:18px;
+    font-weight:bold;
+    color:#fff;
+    font-family:"Capriola", sans-serif;
+}
+
+.tfooterblanc2{
+    font-size:16px;
+    font-weight:bold;
+    color:#fff;
+    text-shadow:0 1px 2px white;
+    font-family:"Capriola", sans-serif;
+}
+
+/* =========================================================
+   RÉSEAUX SOCIAUX
+========================================================= */
+
+.tsociaux{
+    font-size:22px;
+    font-weight:bold;
+    color:#000;
+    text-shadow:0 1px 2px grey;
+    text-decoration:none;
+    font-family:"Capriola", sans-serif;
+}
